@@ -1,0 +1,1 @@
+O presente repositório possui a única funcionalidade de manter ativo o website sobre um portifólio, no qual usou-se I.A para assistência da construção do portifólio, já que não possuo conhecimento aprofundado sobre a linguagem HTML
