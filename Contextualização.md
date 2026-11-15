@@ -1,1 +1,0 @@
-Durante a criação do site foi utilizado o I.A Claude para me auxiliar durante o processo criativo, já que não possuo conhecimento aprofundado sobre a linguagem HTML, no qual através dessa linguagem é possível a criação de um website, para o meu caso um website sobre o meu portifólio. 
